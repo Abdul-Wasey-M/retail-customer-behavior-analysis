@@ -231,6 +231,6 @@ Retail-Customer-Behavior-Analysis
 
 ## Author
 
-**Muhammad Abdul Wasey**
+**Mohammed Abdul Wasey**
 
 Data Analyst | Python | SQL | Power BI | Machine Learning
